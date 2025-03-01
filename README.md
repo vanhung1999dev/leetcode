@@ -1,5 +1,11 @@
 # LeetCode
 
+## Clarify Input
+
+- input = 0
+- input < 1
+- range input
+
 ## Recursion
 
 - [power-of-four](https://leetcode.com/problems/power-of-four/description/) `EASY` (using Number.isInteger && Math.log)
