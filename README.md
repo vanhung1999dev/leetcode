@@ -23,3 +23,14 @@
 - [find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) `MEDIUM` [X]
 - [search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) `MEDIUM` [X]
 - [successful-pairs-of-spells-and-potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) `MEDIUM` [X]
+
+## Hash Table
+
+- [two sum](https://leetcode.com/problems/two-sum/description/) `EASY`
+- [sum-of-unique-elements](https://leetcode.com/problems/sum-of-unique-elements/description/) `EASY`
+- [ransom-note](https://leetcode.com/problems/ransom-note/description/) `EASY`
+- [find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) `EASY`
+- [maximum-number-of-balls-in-a-box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) `EASY`
+- [jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/) `EASY`
+- [optimal-partition-of-string](https://leetcode.com/problems/optimal-partition-of-string/description/) `EASY`
+- [4sum-ii](https://leetcode.com/problems/4sum-ii/description/) `EASY`
