@@ -6,11 +6,52 @@
 - input < 1
 - range input
 
+## Array
+
+- [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) `EASY`
+- [remove Element](https://leetcode.com/problems/remove-element/description/) `EASY`
+- [pascal's triangle](https://leetcode.com/problems/pascals-triangle/description/) `EASY`
+- [find-pivot-index](https://leetcode.com/problems/find-pivot-index/description/) `EASY`
+- [find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) `EASY`
+- [range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) `EASY`
+- [/can-place-flowers](https://leetcode.com/problems/can-place-flowers/description/) `EASY`
+- [base 7](https://leetcode.com/problems/base-7/description/) `EASY`
+
+## String
+
+- [valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/) `EASY`
+- [string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/description/) `EASY`
+- [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/description/) `EASY`
+- [valid-anagram](https://leetcode.com/problems/valid-anagram/description/) `EASY`
+- [shuffle-string](https://leetcode.com/problems/shuffle-string/description/) `EASY`
+- [split-a-string-in-balanced-strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) `EASY`
+- [goal-parser-interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/) `EASY`
+- [decode-the-message](https://leetcode.com/problems/decode-the-message/description/) `EASY`
+- [calculate-digit-sum-of-a-string](https://leetcode.com/problems/calculate-digit-sum-of-a-string/description/) `EASY`
+
 ## Recursion
 
+- [fibonacci-number](https://leetcode.com/problems/fibonacci-number/description/) `EASY`
+- [power-of-three](https://leetcode.com/problems/power-of-three/description/) `EASY`
+- [happy-number](https://leetcode.com/problems/happy-number/description/) `EASY`
+- [find-kth-bit-in-nth-binary-string](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/) `MEDIUM`
 - [power-of-four](https://leetcode.com/problems/power-of-four/description/) `EASY` (using Number.isInteger && Math.log)
 - [sum-of-digits-in-base-k](https://leetcode.com/problems/sum-of-digits-in-base-k/description/) `EASY`
 - [base 7](https://leetcode.com/problems/base-7/description/) `EASY`
+- [169](https://www.lintcode.com/problem/169/) `MEDIUM`
+- [k-th-symbol-in-grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description//) `MEDIUM`
+
+## Sorting
+
+- [find-target-indices-after-sorting-array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/) `EASY`
+- [how-many-numbers-are-smaller-than-the-current-number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) `EASY`
+- [sort-the-students-by-their-kth-score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/) `EASY`
+- [relative-sort-array](https://leetcode.com/problems/relative-sort-array/description/) `EASY`
+- [height-checker](https://leetcode.com/problems/height-checker/description/) `EASY`
+- [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/description/) `EASY`
+- [minimum-cost-of-buying-candies-with-discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/) `EASY`
+- [/make-array-zero-by-subtracting-equal-amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/) `EASY`
+- [widest-vertical-area-between-two-points-containing-no-points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/) `EASY`
 
 ## Binary search
 
