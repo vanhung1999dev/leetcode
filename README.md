@@ -32,5 +32,5 @@
 - [find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) `EASY`
 - [maximum-number-of-balls-in-a-box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) `EASY`
 - [jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/) `EASY`
-- [optimal-partition-of-string](https://leetcode.com/problems/optimal-partition-of-string/description/) `EASY`
-- [4sum-ii](https://leetcode.com/problems/4sum-ii/description/) `EASY`
+- [optimal-partition-of-string](https://leetcode.com/problems/optimal-partition-of-string/description/) `MEDIUM`
+- [4sum-ii](https://leetcode.com/problems/4sum-ii/description/) `MEDIUM`
