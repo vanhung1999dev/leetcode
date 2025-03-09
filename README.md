@@ -65,8 +65,6 @@
 - [search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) `MEDIUM` [X]
 - [successful-pairs-of-spells-and-potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) `MEDIUM` [X]
 
-## Hash Table
-
 - [two sum](https://leetcode.com/problems/two-sum/description/) `EASY`
 - [sum-of-unique-elements](https://leetcode.com/problems/sum-of-unique-elements/description/) `EASY`
 - [ransom-note](https://leetcode.com/problems/ransom-note/description/) `EASY`
