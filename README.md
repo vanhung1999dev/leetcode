@@ -81,10 +81,10 @@
 - [remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/description/) `EASY`
 - [intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) `EASY`
 - [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/description/) `EASY`
+- [partition-lis](https://leetcode.com/problems/partition-list/description/) `EASY`
 - [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) `EASY`
 - [palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/description/) `EASY`
 - [lru-cache](https://leetcode.com/problems/lru-cache/description/) `MEDIUM`
-
 - [max-stack](https://leetcode.com/problems/max-stack/description/) `NA`
 - [lfu-cache](https://leetcode.com/problems/lfu-cache/description/) `HARD`
 - [first-unique-number](https://leetcode.com/problems/first-unique-number/description/) `NA`
