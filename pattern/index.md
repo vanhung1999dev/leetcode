@@ -1084,3 +1084,7 @@ def query_subarray_sum(prefix, i, j):
 - [range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
 - [continuous-subarray-sum](https://leetcode.com/problems/continuous-subarray-sum/description/)
 - [subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+
+## Origin Link
+
+- [link doc](https://www.blog.codeinmotion.io/p/leetcode-patterns)
