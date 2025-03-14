@@ -93,10 +93,10 @@
 
 ## Stack - Queue
 
-- [valid-parentheses](https://leetcode.com/problems/valid-parentheses/description/)
-- [number-of-students-unable-to-eat-lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
-- [backspace-string-compare](https://leetcode.com/problems/backspace-string-compare/description/)
-- [number-of-recent-calls](https://leetcode.com/problems/number-of-recent-calls/description/)
+- [valid-parentheses](https://leetcode.com/problems/valid-parentheses/description/) `EASY`
+- [number-of-students-unable-to-eat-lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/) `EASY`
+- [backspace-string-compare](https://leetcode.com/problems/backspace-string-compare/description/) `EASY`
+- [number-of-recent-calls](https://leetcode.com/problems/number-of-recent-calls/description/) `EASY`
 - [remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
 - [time-needed-to-buy-tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
 - [baseball-game](https://leetcode.com/problems/baseball-game/description/)
