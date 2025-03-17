@@ -6,6 +6,8 @@
 - input < 1
 - range input
 
+# Entry Level
+
 ## Array
 
 - [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) `EASY`
@@ -102,3 +104,15 @@
 - [baseball-game](https://leetcode.com/problems/baseball-game/description/) `EASY`
 - [make-the-string-great](https://leetcode.com/problems/make-the-string-great/description/) `EASY`
 - [minimum-string-length-after-removing-substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/) `EASY`
+
+# Intermediate
+
+## Two Pointer
+
+- [longest-mountain-in-array](https://leetcode.com/problems/longest-mountain-in-array/description/) `MEDIUM`
+- [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) `MEDIUM`
+- [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/description/) `MEDIUM`
+- [linked-list-cycle ii](https://leetcode.com/problems/linked-list-cycle-ii/description/) `MEDIUM`
+- [remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) `MEDIUM`
+- [container-with-most-water](https://leetcode.com/problems/container-with-most-water/description/) `MEDIUM`
+- [number-of-subsequences-that-satisfy-the-given-sum-condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/) `MEDIUM`
