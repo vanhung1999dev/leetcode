@@ -100,5 +100,5 @@
 - [remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) `EASY`
 - [time-needed-to-buy-tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) `EASY`
 - [baseball-game](https://leetcode.com/problems/baseball-game/description/) `EASY`
-- [make-the-string-great](https://leetcode.com/problems/make-the-string-great/description/)
+- [make-the-string-great](https://leetcode.com/problems/make-the-string-great/description/) `EASY`
 - [minimum-string-length-after-removing-substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)
