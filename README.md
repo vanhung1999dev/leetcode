@@ -105,6 +105,16 @@
 - [make-the-string-great](https://leetcode.com/problems/make-the-string-great/description/) `EASY`
 - [minimum-string-length-after-removing-substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/) `EASY`
 
+## Graph
+
+- [same-tree](https://leetcode.com/problems/same-tree/description/) `EASY`
+- [symmetric-tree](https://leetcode.com/problems/symmetric-tree/description/) `EASY`
+- [maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) `EASY`
+- [path-sum](https://leetcode.com/problems/path-sum/description/)
+- [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/description/)
+- [balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+- [binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/description/)
+
 # Intermediate
 
 ## Two Pointer
