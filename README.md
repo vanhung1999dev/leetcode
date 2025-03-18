@@ -110,7 +110,7 @@
 - [same-tree](https://leetcode.com/problems/same-tree/description/) `EASY`
 - [symmetric-tree](https://leetcode.com/problems/symmetric-tree/description/) `EASY`
 - [maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) `EASY`
-- [path-sum](https://leetcode.com/problems/path-sum/description/)
+- [path-sum](https://leetcode.com/problems/path-sum/description/) `EASY`
 - [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/description/)
 - [balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 - [binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/description/)
