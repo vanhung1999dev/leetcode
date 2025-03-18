@@ -141,11 +141,11 @@
 
 ## Sliding Window
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/) `MEDIUM`
+- [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) `MEDIUM`
+- []() `MEDIUM`
+- []() `MEDIUM`
+- []() `MEDIUM`
 
 ## Backtrack 1
 
