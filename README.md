@@ -117,6 +117,18 @@
 
 # Intermediate
 
+## Bit manipulation + Mask
+
+## Advance Tree
+
+## Trie
+
+## Union Find/Disjoint Set
+
+## Advance Binary Search
+
+## Fast Flow Technical
+
 ## Two Pointer
 
 - [longest-mountain-in-array](https://leetcode.com/problems/longest-mountain-in-array/description/) `MEDIUM`
@@ -126,3 +138,55 @@
 - [remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) `MEDIUM`
 - [container-with-most-water](https://leetcode.com/problems/container-with-most-water/description/) `MEDIUM`
 - [number-of-subsequences-that-satisfy-the-given-sum-condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/) `MEDIUM`
+
+## Sliding Window
+
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Backtrack 1
+
+## Backtrack 2 with Dynamic Programming
+
+## Dynamic programming (LCS, LIS, Knapsack)
+
+## Dynamic programming (Coin change, stock trading)
+
+## Dynamic programming with partition problem
+
+## Dijkstra
+
+## Game Theory
+
+## String parse1
+
+## String parse2
+
+# Hard
+
+## Minimum Spanning Tree
+
+## Rolling Hash
+
+## KMP
+
+## Z Function
+
+## Binary Search Graph Traversal
+
+## Binary Search Dynamic Programming
+
+## Sorting Dynamic Programming
+
+## BitMask Dynamic Programming
+
+## BitMask + Trie
+
+## Tree dynamic Programming
+
+## Topological Sort Dynamic Programming
+
+## Combinatorics Dynamic Programming
