@@ -115,6 +115,14 @@
 - [balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 - [binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/description/)
 
+## DFS
+
+- [keys-and-rooms](https://leetcode.com/problems/keys-and-rooms/description/) `MEDIUM`
+- [number-of-provinces](https://leetcode.com/problems/number-of-provinces/description/) `MEDIUM`
+- [find-eventual-safe-states](https://leetcode.com/problems/find-eventual-safe-states/description/)
+- [find-eventual-safe-states](https://leetcode.com/problems/find-eventual-safe-states/description/)
+- [is-graph-bipartite](https://leetcode.com/problems/is-graph-bipartite/description/)
+
 # Intermediate
 
 ## Bit manipulation + Mask
