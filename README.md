@@ -6,6 +6,13 @@
 - input < 1
 - range input
 
+## Step
+
+- read requirement clearly
+- read example and visualize it
+- find the pattern
+- find the edge-case
+
 # Entry Level
 
 ## Array
@@ -119,7 +126,6 @@
 
 - [keys-and-rooms](https://leetcode.com/problems/keys-and-rooms/description/) `MEDIUM`
 - [number-of-provinces](https://leetcode.com/problems/number-of-provinces/description/) `MEDIUM`
-- [find-eventual-safe-states](https://leetcode.com/problems/find-eventual-safe-states/description/)
 - [find-eventual-safe-states](https://leetcode.com/problems/find-eventual-safe-states/description/)
 - [is-graph-bipartite](https://leetcode.com/problems/is-graph-bipartite/description/)
 
